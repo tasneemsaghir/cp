@@ -1,4 +1,4 @@
-package com.cp.arithematic;
+package com.cp.arithmetic;
 public class Swap {
 
 	public static void main(String[] args) {
