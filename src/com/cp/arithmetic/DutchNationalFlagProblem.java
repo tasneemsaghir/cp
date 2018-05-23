@@ -40,6 +40,9 @@ public class DutchNationalFlagProblem
      partition(A, A.length - 1);
      System.out.println(Arrays.toString(A));
     		 
+
+ 
+ 
  }
 
 
